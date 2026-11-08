@@ -1,4 +1,4 @@
-# Dengue Pool Detector
+# Pool Detector
 
 Esta aplicação ajuda as equipes de Controle da Dengue a identificar possíveis focos de reprodução de mosquitos detectando piscinas em imagens de satélite. Ela utiliza visão computacional para encontrar a cor azul/ciano característica das piscinas, calcula suas coordenadas geográficas e gera relatórios com os endereços.
 
